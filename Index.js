@@ -3,10 +3,10 @@
 <body>
 <p id="demo">he value of z is.</p>
 <script>
-var x, y, z;
-x = 5;
+var xx, y, z;
+xx = 5;
 y = 6;
-z = x + y;
+z = xx + y;
 document.getElementById("demo").innerHTML ="The value of z is " + z + ".";
 </script>
 </body>
