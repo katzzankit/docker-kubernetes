@@ -16,8 +16,9 @@ document.getElementById("demoyy").innerHTML ="The value of z is " + yy + ".";
 document.getElementById("demozz").innerHTML ="The value of z is " + zz + ".";
 
 var i = 0;
+var j = 0;
 forEach((item, i) => {
-  
+
 });
 
 </script>
